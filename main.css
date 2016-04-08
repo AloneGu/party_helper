@@ -1,0 +1,19 @@
+body 
+{
+background-color:#878787;
+font-family:courier, courier new, serif;
+}
+
+.one
+{font-size:60px;
+color:orange;
+background-color:black;}
+
+.two
+{font-size:30px;
+color:#483D8B;}
+
+hr 
+{ height:20px;
+  border:none;
+  border-top:10px groove skyblue;}
