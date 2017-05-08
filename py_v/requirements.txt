@@ -1,0 +1,4 @@
+werobot==1.0.0
+requests
+pandas==0.18.1
+gunicorn==19.6.0
